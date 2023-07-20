@@ -16,8 +16,7 @@ const Header = () =>  (
   </Div1>
   <Div2>
     <li>
-      <Link href='#projects'>
-
+      <Link href='#projects'> 
         <NavLink>
           Projects
         </NavLink>
@@ -51,7 +50,7 @@ const Header = () =>  (
 <AiFillTwitterCircle size='3rem'/>
     </SocialIcons>
   </Div3>
-</Container>
+</Container> 
 );
 
 export default Header;
