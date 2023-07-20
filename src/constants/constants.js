@@ -9,12 +9,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Text-posts',
-    description:"A pseudo social media app built with Ruby on Rails and React JS. Users can log in, create posts with texts, and view posts with hashtags..",
-    image: '/images/chat-app.png',
-    tags: ['React', 'JavaScript', 'Ruby on Rails'],
-    source: 'https://github.com/briitn/phase-4-project',
-    visit:  'https://chat-app-kgns.onrender.com',
+    title: 'Car showcase',
+    description:"A website built with TypeScript, Next.js, and Tailwind CSS, where users can browse and rent whatever car they want.",
+    image: '/images/car-showcase.png',
+    tags: ['Next.js', 'TypeScript', 'Tailwind CSS'],
+    source: 'https://github.com/briitn/car-showcase',
+    visit:  'https://car-showcase-amt2.vercel.app/',
     id: 1,
   },
   {
